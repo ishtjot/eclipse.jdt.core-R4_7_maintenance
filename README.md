@@ -1,0 +1,1 @@
+# eclipse.jdt.core-R4_7_maintenance
